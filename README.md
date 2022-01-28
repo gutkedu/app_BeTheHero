@@ -1,9 +1,3 @@
-<h4 align="center">
-<img src="./img/logo.png" width="250px" /><br>
- <img src="./img/rocket.png" width="250px" /><br>
-</h4>
-
-<br>
 
 ### :rocket: Tecnologias usadas
 Este projeto foi desenvolvido com as seguintes tecnologias:
